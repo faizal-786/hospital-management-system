@@ -1,0 +1,32 @@
+.myform-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 32px);;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #020c16;
+    background-color: #f3e9e9;
+    background-clip: padding-box;
+    border: 1px solid #829cb7;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.mybtn{
+display: inline-block;
+    width: 100%;
+    background-color: coral;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+.mybadge-edit{
+	background: #33A2FF;
+    width: 250px;
+    height: 40px;
+}
+.mybadge a{
+	color: #fff;
+    font-size: 14px;
+}
